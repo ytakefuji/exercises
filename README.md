@@ -7,6 +7,8 @@ Code your program for predicting binary detection.
 You should check the content of diabetes_data_upload.csv before coding.
 
 
+# wine quality 
+
 http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
 
 Code your program for predicting quality of wine with regression.
