@@ -1,17 +1,16 @@
 # Sweden prediction
 <a href='https://github.com/ytakefuji/sweden'> Sweden prediction</a>
 
-Make a Python program using numpy.polifit function.
+Make a Python program using numpy.polyfit function.
 
 # Europe prediction
 
-You should convert euro.xlsx to euro.csv where euro.xlsx was downloaded from
-. Use numpy.polyfit.
+You should convert euro.xlsx to euro.csv where euro.xlsx was downloaded from:
+https://www.statista.com/statistics/1102288/coronavirus-deaths-development-europe/
 
-https://github.com/ytakefuji/exercises/blob/main/euro.xlsx
+Use numpy.polyfit function in your program.
 
-Make a Python program for predicting the number of deaths due to the covid-19 using euro.csv.
-
+Make a Python program for predicting the number of deaths due to the covid-19 using converted euro.csv.
 
 
 # diabetes
