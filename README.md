@@ -1,3 +1,8 @@
+# Sweden prediction
+<a href='https://github.com/ytakefuji/sweden'> Sweden prediction</a>
+
+Make a Python program using numpy.polifit function.
+
 # Europe prediction
 Make a Python program for predicting the number of deaths due to the covid-19 using euro.xlsx.
 
