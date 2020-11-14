@@ -4,9 +4,15 @@
 Make a Python program using numpy.polifit function.
 
 # Europe prediction
-Make a Python program for predicting the number of deaths due to the covid-19 using euro.xlsx.
 
-You should convert euro.xlsx to euro.csv. Use numpy
+You should convert euro.xlsx to euro.csv where euro.xlsx was downloaded from
+. Use numpy.polyfit.
+
+https://github.com/ytakefuji/exercises/blob/main/euro.xlsx
+
+Make a Python program for predicting the number of deaths due to the covid-19 using euro.csv.
+
+
 
 # diabetes
 
