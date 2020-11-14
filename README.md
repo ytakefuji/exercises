@@ -8,6 +8,8 @@ Use numpy.polyfit function for prediction.
 You should convert euro.xlsx to euro.csv where euro.xlsx was downloaded from:
 https://www.statista.com/statistics/1102288/coronavirus-deaths-development-europe/
 
+Note that all integers must be converted to proper integers, for example, "1,234" to 1234 in euro.csv file.
+
 Use numpy.polyfit function for prediction using converted euro.csv.
 
 
