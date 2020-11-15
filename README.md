@@ -1,11 +1,11 @@
 # Sweden prediction using curve-fitting
 <a href='https://github.com/ytakefuji/sweden'> Sweden prediction</a>
 
-Use numpy.polyfit function for prediction.
+1.Use numpy.polyfit function for prediction.
 
 Hints: np.polyfit(x,y,z) where x and y are input and output with the zth degree of polinomial.
 
-Make your program for predicting any country by changing the country name.
+2.Make your program for predicting any country by changing the country name.
 
 # Europe prediction using curve-fitting
 
