@@ -3,6 +3,10 @@
 
 Use numpy.polyfit function for prediction.
 
+Hints: np.polyfit(x,y,z) where x and y are input and output with the zth degree of polinomial.
+
+Make your program for predicting any country by changing the country name.
+
 # Europe prediction using curve-fitting
 
 You should convert euro.xlsx to euro.csv where euro.xlsx was downloaded from:
