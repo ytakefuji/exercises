@@ -1,4 +1,4 @@
-# Sweden prediction using curve-fitting
+# 1.Sweden prediction using curve-fitting
 <a href='https://github.com/ytakefuji/sweden'> Sweden prediction</a>
 
 1.Use numpy.polyfit function for prediction.
@@ -7,7 +7,7 @@ Hints: np.polyfit(x,y,z) where x and y are input and output with the zth degree 
 
 2.Make your program for predicting any country by changing the country name.
 
-# Europe prediction using curve-fitting
+# 2.Europe prediction using curve-fitting
 
 You should convert euro.xlsx to euro.csv where euro.xlsx was downloaded from:
 https://www.statista.com/statistics/1102288/coronavirus-deaths-development-europe/
@@ -15,6 +15,12 @@ https://www.statista.com/statistics/1102288/coronavirus-deaths-development-europ
 Note that all integers must be converted to proper integers, for example, "1,234" to 1234 in euro.csv file.
 
 Use numpy.polyfit function for prediction using converted euro.csv.
+
+# 3. Prediction for any country
+
+Make a program for prediction by entering a country name.
+
+$ python daily.py
 
 
 # diabetes
