@@ -5,9 +5,14 @@
 
 Hints: np.polyfit(x,y,z) where x and y are input and output with the zth degree of polinomial.
 
-2.Make your program for predicting any country by changing the country name.
+# 2. Prediction for any country
 
-# 2.Europe prediction using curve-fitting
+Make a program for prediction by entering a country name.
+
+$ python daily.py
+
+
+# 3.Europe prediction using curve-fitting
 
 You should convert euro.xlsx to euro.csv where euro.xlsx was downloaded from:
 https://www.statista.com/statistics/1102288/coronavirus-deaths-development-europe/
@@ -16,11 +21,6 @@ Note that all integers must be converted to proper integers, for example, "1,234
 
 Use numpy.polyfit function for prediction using converted euro.csv.
 
-# 3. Prediction for any country
-
-Make a program for prediction by entering a country name.
-
-$ python daily.py
 
 
 # diabetes
