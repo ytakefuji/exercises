@@ -42,11 +42,14 @@ Code your program for predicting quality of red wine with regression.
 
 You should check the content of winequality-red.csv before coding.
 
-# 6. ML5
+# 6. ML5 posenet for recognition of human body
 
 https://github.com/ytakefuji/ml5
 
-Download a tar file and expand it.
+Test the following site:
+https://gpu.dob.jp/nosePos/index.html
+
+Download a rednose.tar file and expand it.
 
 Run the program by clicking index.html
 
