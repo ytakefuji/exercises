@@ -27,7 +27,7 @@ Use numpy.polyfit function for prediction using converted euro.csv.
 
 # diabetes
 
-<a href='http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.'> click</a>
+<a href='http://archive.ics.uci.edu/ml/datasets/Early+stage+diabetes+risk+prediction+dataset.'> click-data</a>
 
 Code your program for predicting binary detection.
 
