@@ -46,7 +46,7 @@ You should check the content of winequality-red.csv before coding.
 
 https://github.com/ytakefuji/ml5
 
-Test the following site:
+Demo site:
 https://gpu.dob.jp/nosePos/index.html
 
 Download a rednose.tar file and expand it.
