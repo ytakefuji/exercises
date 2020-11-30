@@ -42,7 +42,11 @@ Code your program for predicting quality of red wine with regression.
 
 You should check the content of winequality-red.csv before coding.
 
-# 6. ML5 posenet for recognition of human body
+# 6. CDOT regression and data augmentation
+
+https://github.com/ytakefuji/cdot
+
+# 7. ML5 posenet for recognition of human body
 
 https://github.com/ytakefuji/ml5
 
