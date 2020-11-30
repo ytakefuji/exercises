@@ -68,6 +68,14 @@ Download a rednose.tar file and expand it.
 
 Run the program by clicking index.html
 
+Run simple_pose.py
+
+Run yolo.py
+<pre>
+Create a program to identify a part of body and the screen location which can be used for switching on or off.
+If the body part is within the certain area, turn on, else turn off.
+</pre>
+
 # 9. ensemble ensemble
 
 https://github.com/ytakefuji/concrete
