@@ -25,6 +25,9 @@ Use numpy.polyfit function for prediction using converted euro.csv.
 
 # 4. Titanic binary classification
 
+pandas, preprocessing, and train_test_split functions are detailed.
+all strings must be converted into numbers for machine learning.
+
 https://github.com/ytakefuji/titanic
 
 
