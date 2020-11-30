@@ -15,6 +15,7 @@ Make a program for prediction by entering a country name.
 
 $ python daily.py
 
+<img src='daily.png' height=400 width=600>
 
 # 3. Europe prediction using curve-fitting
 
