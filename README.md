@@ -71,7 +71,7 @@ Run the program by clicking index.html
 
 https://github.com/ytakefuji/concrete
 <pre>
-Stacking, votiting, Stacking+NN... are explained.
+Stacking, voting, Stacking+NN... are explained.
 </pre>
 
 
