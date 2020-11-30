@@ -42,7 +42,7 @@ Code your program for predicting quality of red wine with regression.
 
 You should check the content of winequality-red.csv before coding.
 
-# 6. CDOT regression and data augmentation
+# 6. CDOT regression with data augmentation
 
 https://github.com/ytakefuji/cdot
 
