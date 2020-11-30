@@ -65,6 +65,13 @@ Download a rednose.tar file and expand it.
 
 Run the program by clicking index.html
 
+# 9. ensemble ensemble
+
+https://github.com/ytakefuji/concrete
+<pre>
+Stacking, votiting, Stacking+NN... are explained.
+</pre>
+
 
 
 
