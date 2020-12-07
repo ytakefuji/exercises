@@ -53,7 +53,7 @@ Code your program for predicting quality of red wine with regression.
 
 You should check the content of winequality-red.csv before coding.
 
-# 7. global warming vs TSI
+# 7. global warming vs TSI vs CO2 vs temperature
 
 Go to https://github.com/ytakefuji/global-warming
 
