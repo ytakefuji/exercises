@@ -65,9 +65,9 @@ Create a global temperature graph and a global CO2 density graph.
 
 https://github.com/ytakefuji/cdot
 
-Students should create RandomForestRegressor and ExtraTreesRegressor programs.
+Students should create RandomForestRegressor and ExtraTreesRegressor programs using train.csv and test.csv.
 
-Then, run the data-augmented programs using RandomForest and ExtraTrees respectively.
+Then, run the data-augmented programs (cdot_ext.py and cdot_rf.py) using RandomForest and ExtraTrees respectively.
 
 Observe the different results between augmented and non-augmented programs.
 
