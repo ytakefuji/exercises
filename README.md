@@ -53,11 +53,19 @@ Code your program for predicting quality of red wine with regression.
 
 You should check the content of winequality-red.csv before coding.
 
-# 7. CDOT regression with data augmentation
+# 7. global warming vs TSI
+
+Go to https://github.com/ytakefuji/global-warming
+
+Create a TSI graph and curve-fitting.
+
+Create a global temperature graph and a global CO2 density graph.
+
+# 8. CDOT regression with data augmentation
 
 https://github.com/ytakefuji/cdot
 
-# 8. ML5 posenet for recognition of human body
+# 9. ML5 posenet for recognition of human body
 
 https://github.com/ytakefuji/ml5
 
@@ -76,7 +84,7 @@ Create a program to identify a part of body and the screen location which can be
 If the body part is within the certain area, turn on, else turn off.
 </pre>
 
-# 9. ensemble ensemble
+# 10. ensemble ensemble
 
 https://github.com/ytakefuji/concrete
 <pre>
