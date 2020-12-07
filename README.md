@@ -65,6 +65,13 @@ Create a global temperature graph and a global CO2 density graph.
 
 https://github.com/ytakefuji/cdot
 
+Students should create RandomForestRegressor and ExtraTreesRegressor programs.
+
+Then, run the data-augmented programs using RandomForest and ExtraTrees respectively.
+
+Observe the different results between augmented and non-augmented programs.
+
+
 # 9. ML5 posenet for recognition of human body
 
 https://github.com/ytakefuji/ml5
